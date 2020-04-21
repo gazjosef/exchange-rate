@@ -78,3 +78,9 @@ p {
   font-size: 14px;
   padding: 0 14px;
 }
+
+select:focus,
+input:focus,
+button:focus {
+  outline: 0;
+}
